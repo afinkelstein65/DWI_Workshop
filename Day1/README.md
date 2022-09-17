@@ -13,7 +13,7 @@
 	* DWI, DTI, DKI, IVIM, NODDI, Tractography
 
 * Part III: 
-	* Overview of bash, SLURM, CLI, and software toolboxes used for DWI processing
+	* Overview of bash [Bash Tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins), shell scripting [Shell Scripting Tutorial](https://www.youtube.com/watch?v=dW3oYQbNFyI&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_&index=12&ab_channel=ProgrammingKnowledge), SLURM, CLI, and software toolboxes used for DWI processing.
 	
 
 ## Resources 
