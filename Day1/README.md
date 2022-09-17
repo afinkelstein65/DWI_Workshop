@@ -5,8 +5,8 @@
 * Introduction 
 
 * Part I: 
-	* MR Physics 
-	* DWI Physics 
+	* MR Physics - Understanding what a spin echo (SE) is, how it is generated and measured by an MR system. [SE](https://mriquestions.com/spin-echo1.html)
+	* DWI Physics - Overview of diffusion, isotropic and anisotropic, PGSE, b-value and b-vector, single shell and multishell. [DWI - MRI Questions](https://mriquestions.com/diffusion-basic.html)
 
 * Part II:
 	* Overview of reconstruction
