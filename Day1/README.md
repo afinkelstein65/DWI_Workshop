@@ -26,4 +26,4 @@
 
 ## References
 1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
-2. [NODDI](https://www.sciencedirect.com/science/article/pii/S1053811912003539?via%3Dihub)
+2. [NODDI -Zhang et al., 2012](https://www.sciencedirect.com/science/article/pii/S1053811912003539?via%3Dihub)
