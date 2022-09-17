@@ -18,7 +18,10 @@
 
 ## Resources 
 
-* [DIPY](https://dipy.org)
-* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide)
-	* [FSL Diffusion Practical](https://fsl.fmrib.ox.ac.uk/fslcourse/2019_Beijing/lectures/FDT/fdt1.html)
-* [MRtrix3](https://www.mrtrix.org/)
+* [DIPY](https://dipy.org) : Data reconstruction (DTI, DKI, IVIM, Tractography) .
+* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide).
+	* [FSL Diffusion Practical](https://fsl.fmrib.ox.ac.uk/fslcourse/2019_Beijing/lectures/FDT/fdt1.html):  Eddy correction (EDDY), Susceptibility correction (TOPUP), DTI, Tractography
+* [MRtrix3](https://www.mrtrix.org/) : Reconstruction (CSD) + FBA, Tractrography + SC.
+* [Brain Connecitivty Toolbox](https://sites.google.com/site/bctnet/): Graph Theory analysis of SC (FC).
+* [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
+
