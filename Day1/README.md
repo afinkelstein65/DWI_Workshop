@@ -21,3 +21,4 @@
 * [DIPY](https://dipy.org)
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide)
 	* [FSL Diffusion Practical](https://fsl.fmrib.ox.ac.uk/fslcourse/2019_Beijing/lectures/FDT/fdt1.html)
+* [MRtrix3](https://www.mrtrix.org/)
