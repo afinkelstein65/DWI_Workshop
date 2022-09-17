@@ -24,3 +24,5 @@
 * [Brain Connecitivty Toolbox](https://sites.google.com/site/bctnet/): Graph Theory analysis of SC (FC).
 * [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
 
+## References
+1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
