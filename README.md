@@ -1,11 +1,13 @@
 # **DWI Workshop**
+
 **Graduate Student Workshop on Diffusion Weighted MRI imaging and data processing**
+
 Arun Venkatarman, Zachary Christiensen, Alan Finkelstein 
 Organized By: Madalina Tivarus & Lars Ross 
 
 
 
-<img src="" alt="drawing" width="200"/>
+<img src="tracts.jpeg" alt="Tracts" width="200"/>
 
 ## Resources 
 
