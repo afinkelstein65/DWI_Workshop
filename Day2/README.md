@@ -8,4 +8,4 @@
   
 
 ## Getting Started 
-1. Begin by typing `jupyter notebook` to launch a session in your browser.
+1. Begin by typing `jupyter notebook` in the terminal to launch a session in your browser.
