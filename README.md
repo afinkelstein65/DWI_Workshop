@@ -8,7 +8,11 @@ Organized By: Madalina Tivarus & Lars Ross
 
 
 <p align='center'>
-<img src="images/tracts2.jpeg" alt="Tracts" width="400"/>
+   <img src="images/tracts2.jpeg" alt="Tracts" width="200"/>
+  <img src ="images/SC.jpeg" alt="SC" width=300/> 
+</p>
+<p align='center'>
+  <img src ="images/fODFs.png" alt='fodf' width=600/>
 </p>
 
 ## Resources 
