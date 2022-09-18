@@ -6,8 +6,9 @@ Arun Venkatarman, Zachary Christiensen, Alan Finkelstein
 Organized By: Madalina Tivarus & Lars Ross 
 
 
-
+<p align='center'>
 <img src="images/tracts.jpeg" alt="Tracts" width="200"/>
+</p>
 
 ## Resources 
 
