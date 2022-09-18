@@ -7,7 +7,7 @@ Organized By: Madalina Tivarus & Lars Ross
 
 
 <p align='center'>
-<img src="images/tracts.jpeg" alt="Tracts" width="200"/>
+<img src="images/tracts2.jpeg" alt="Tracts" width="200"/>
 </p>
 
 ## Resources 
