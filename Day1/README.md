@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-   <img src="images/PGSE.gif" alt="Tracts" width="300"/>
+   <img src="../images/PGSE.gif" alt="Tracts" width="300"/>
 </p>
 
 
