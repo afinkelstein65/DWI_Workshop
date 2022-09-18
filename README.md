@@ -8,7 +8,7 @@ Organized By: Madalina Tivarus & Lars Ross
 
 
 <p align='center'>
-<img src ="images/SC" alt="SC" width=200/>
+<img src ="images/SC.jpeg" alt="SC" width=200/>
 <img src="images/tracts2.jpeg" alt="Tracts" width="400"/>
 </p>
 
