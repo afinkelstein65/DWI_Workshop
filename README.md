@@ -5,7 +5,7 @@ Organized By: Madalina Tivarus & Lars Ross
 
 
 
-<img src="[icon.png](https://www.researchgate.net/figure/Fiber-Tractography-in-the-human-brain-Second-image-adapted-from-1_fig1_330521019)" alt="drawing" width="200"/>
+<img src="https://www.researchgate.net/figure/Fiber-Tractography-in-the-human-brain-Second-image-adapted-from-1_fig1_330521019" alt="drawing" width="200"/>
 
 ## Resources 
 
