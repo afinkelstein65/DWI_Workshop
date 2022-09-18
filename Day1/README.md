@@ -1,5 +1,11 @@
 # DWI Workshop Day 1
 
+
+<p align='center'>
+   <img src="images/PGSE.gif" alt="Tracts" width="300"/>
+</p>
+
+
 ## Schedule: Day 1 
 
 * Introduction 
