@@ -11,4 +11,4 @@
 1. Begin by typing `jupyter notebook` in the terminal to launch a session in your browser.
 
 ## Diffusion Tensor Imaging (DTI)
-  * Overview of DTI, bval, bvec, and nii files. [Jupyter Notebook](DWI_Workshop_Day1.ipynb)
+  * Overview of DTI, bval, bvec, and nii files. [Jupyter Notebook](DWI_Workshop_Day1_DTI.ipynb)
