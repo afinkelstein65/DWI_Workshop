@@ -12,7 +12,7 @@ Organized By: Madalina Tivarus & Lars Ross
   <img src="images/tracts2.jpeg" alt="Tracts" width="400"/>
 </p>
 <p align='center'>
-  <img src ="images/fODFs.png" alt='fodf' width=400/>
+  <img src ="images/fODFs.png" alt='fodf' width=600/>
 </p>
 
 ## Resources 
