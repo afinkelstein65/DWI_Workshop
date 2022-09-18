@@ -1,4 +1,4 @@
-# **2022 CABIN DWI Workshop**
+# *CABIN DWI Workshop**
 
 **Graduate Student Workshop on Diffusion Weighted MRI imaging and data processing**
 
