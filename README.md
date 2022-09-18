@@ -29,7 +29,7 @@ Organized By: Madalina Tivarus & Lars Ross
 2. [Human Connectome Project (HCP)](http://www.humanconnectomeproject.org/)
 3. [OpenNeuro](https://openneuro.org/)
 4. [Adolescent Brain Cognitive Development (ABCD) Study](https://abcdstudy.org/)
-5. Parkinson's Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/)
+5. [Parkinson's Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/)
 
 ## References
 1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
