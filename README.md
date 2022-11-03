@@ -22,6 +22,7 @@ Organized By: Madalina Tivarus & Lars Ross
 * [MRtrix3](https://www.mrtrix.org/) : Reconstruction (CSD) + FBA, Tractrography + SC.
 * [Brain Connecitivty Toolbox](https://sites.google.com/site/bctnet/): Graph Theory analysis of SC (FC).
 * [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
+* [Advanced Normalization Tools](https://github.com/ANTsX) : general tools for preprocessing medical images 
 
 ## Publicly Available Data 
 
