@@ -2,7 +2,7 @@
 
 **Graduate Student Workshop on Diffusion Weighted MRI imaging and data processing**
 
-Arun Venkatarman, Zachary Christiensen, Alan Finkelstein 
+Arun Venkatarman, Zachary Christiensen, Alan Finkelstein & Abrar Faiyaz
 
 Organized By: Madalina Tivarus & Lars Ross 
 
