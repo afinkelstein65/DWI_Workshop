@@ -2,7 +2,7 @@
 
 **Graduate Student Workshop on Diffusion Weighted MRI imaging and data processing**
 
-Arun Venkatarman, Zachary Christiensen, Alan Finkelstein 
+Arun Venkatarman, Zachary Christiensen, Alan Finkelstein & Abrar Faiyaz
 
 Organized By: Madalina Tivarus & Lars Ross 
 
@@ -15,6 +15,9 @@ Organized By: Madalina Tivarus & Lars Ross
   <img src ="images/fODFs.png" alt='fodf' width=600/>
 </p>
 
+
+Video recordings of all workshops are available [here](https://rochester.box.com/s/91t2eb0neym1zolozqml11tejikrb8kz)
+
 ## Resources 
 
 * [DIPY](https://dipy.org) : Data reconstruction (DTI, DKI, IVIM, Tractography) .
@@ -22,7 +25,11 @@ Organized By: Madalina Tivarus & Lars Ross
 * [MRtrix3](https://www.mrtrix.org/) : Reconstruction (CSD) + FBA, Tractrography + SC.
 * [Brain Connecitivty Toolbox](https://sites.google.com/site/bctnet/): Graph Theory analysis of SC (FC).
 * [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
+
 * [Advanced Normalization Tools](https://github.com/ANTsX) : general tools for preprocessing medical images 
+* [Tractoflow](https://github.com/scilus/tractoflow) : Nextflow pipeline for processing raw DWI data. 
+* [Connectoflow](https://github.com/scilus/connectoflow): Nextflow pipeline for processing connectivity data. 
+
 
 ## Publicly Available Data 
 
@@ -36,3 +43,4 @@ Organized By: Madalina Tivarus & Lars Ross
 1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
 2. [NODDI -Zhang et al., 2012](https://www.sciencedirect.com/science/article/pii/S1053811912003539?via%3Dihub)
 3. [Major White Matter Tracks - Bullock et al. 2022](https://psyarxiv.com/fvk5r/)
+4. [BATMAN](Batman.pdf)
