@@ -25,6 +25,8 @@ Video recordings of all workshops are available [here](https://rochester.box.com
 * [MRtrix3](https://www.mrtrix.org/) : Reconstruction (CSD) + FBA, Tractrography + SC.
 * [Brain Connecitivty Toolbox](https://sites.google.com/site/bctnet/): Graph Theory analysis of SC (FC).
 * [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
+
+* [Advanced Normalization Tools](https://github.com/ANTsX) : general tools for preprocessing medical images 
 * [Tractoflow](https://github.com/scilus/tractoflow) : Nextflow pipeline for processing raw DWI data. 
 * [Connectoflow](https://github.com/scilus/connectoflow): Nextflow pipeline for processing connectivity data. 
 
