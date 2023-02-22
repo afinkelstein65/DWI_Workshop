@@ -39,13 +39,13 @@ Video recordings of all workshops are available [here](https://rochester.box.com
 4. [Adolescent Brain Cognitive Development (ABCD) Study](https://abcdstudy.org/)
 5. [Parkinson's Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/)
 
-## Overview 
+## Sections
 
 * Day 1 - [Background](Day1)
-* Day 2 - Preprocessing
-* Day 3 - CSD and Tractography 
-* Day 4 - Connectivity and Graph Theory
-* Day 5 - Miscellaneous
+* Day 2 - [Preprocessing](Day2 - Preprocessing)
+* Day 3 - [CSD and Tractography](Day3 - CSD and Tractography)
+* Day 4 - [Connectivity and Graph Theory](Day4 - Connectivity and Graph Theory)
+* Day 5 -[ Miscellaneous](Day5 - Miscellaneous)
 
 ## References
 1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
