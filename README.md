@@ -16,7 +16,7 @@ Organized By: Madalina Tivarus & Lars Ross
 </p>
 
 
-Video recordings of all workshops are available [here](https://rochester.box.com/s/91t2eb0neym1zolozqml11tejikrb8kz)
+Video recordings of all workshops and practice data are available [here](https://rochester.box.com/s/91t2eb0neym1zolozqml11tejikrb8kz)
 
 ## Resources 
 
@@ -41,10 +41,10 @@ Video recordings of all workshops are available [here](https://rochester.box.com
 
 ## Sections
 
-* Day 1 - [Background](Day1 - Background)
-* Day 2 - [Preprocessing](Day2 - Preprocessing)
-* Day 3 - [CSD and Tractography](Day3 - CSD and Tractography)
-* Day 4 - [Connectivity and Graph Theory](Day4 - Connectivity and Graph Theory)
+* Day 1 - [Background](https://github.com/afinkelstein65/DWI_Workshop/tree/main/Day1%20-%20Background)
+* Day 2 - [Preprocessing](https://github.com/afinkelstein65/DWI_Workshop/tree/main/Day2%20-%20Preprocessing)
+* Day 3 - [CSD and Tractography](https://github.com/afinkelstein65/DWI_Workshop/tree/main/Day3%20-%20CSD%20and%20Tractography)
+* Day 4 - [Connectivity and Graph Theory](https://github.com/afinkelstein65/DWI_Workshop/tree/main/Day4%20-%20Connectivity%20and%20Graph%20Theory)
 
 
 ## References
