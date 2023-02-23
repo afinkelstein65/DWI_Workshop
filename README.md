@@ -41,11 +41,11 @@ Video recordings of all workshops are available [here](https://rochester.box.com
 
 ## Sections
 
-* Day 1 - [Background](Day1)
+* Day 1 - [Background](Day1 - Background)
 * Day 2 - [Preprocessing](Day2 - Preprocessing)
 * Day 3 - [CSD and Tractography](Day3 - CSD and Tractography)
 * Day 4 - [Connectivity and Graph Theory](Day4 - Connectivity and Graph Theory)
-* Day 5 -[ Miscellaneous](Day5 - Miscellaneous)
+
 
 ## References
 1. [DTI Review - O'Donnell et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163395/)
