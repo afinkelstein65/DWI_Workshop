@@ -9,7 +9,7 @@ In today's workshop we will take previously pre-processed data and perform const
 
 * [Constrained Spherical Deconvolution](DWI_Workshop_Day3_CSD.ipynb) 
 * [Tractography](DWI_Workshop_Day3_Tractography.ipynb)
-* [Tractoflow]
+
 
 ## Constrained Spherical Deconvolution: 
 
