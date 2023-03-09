@@ -27,6 +27,7 @@ Video recordings of all workshops and practice data are available [here](https:/
 * [Camino](http://camino.cs.ucl.ac.uk/) : Data Reconstruction + Synthesis + Tractography.
 
 * [Advanced Normalization Tools](https://github.com/ANTsX) : general tools for preprocessing medical images 
+* [scilpy](https://github.com/scilus/scilpy): Library used at the Sherbrooke Connectivity Imaging Lab (SCIL). Uses DIPY, ANTS, FSL, and others to work with diffusion MRI data and develop reproducible pipelines in python. 
 * [Tractoflow](https://github.com/scilus/tractoflow) : Nextflow pipeline for processing raw DWI data. 
 * [Connectoflow](https://github.com/scilus/connectoflow): Nextflow pipeline for processing connectivity data. 
 
