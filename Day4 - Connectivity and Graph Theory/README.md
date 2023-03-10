@@ -6,8 +6,8 @@ In this section we will review consideraitons for connectome construction, post-
 
 ## Sections: 
 
-* [Connectome Construction]()
-* [Graph Theory]()
+* [Connectome Construction](https://github.com/afinkelstein65/DWI_Workshop/blob/main/Day4%20-%20Connectivity%20and%20Graph%20Theory/DWI_Workshop_Day4_ConnectomeConstruction.ipynb)
+* [Graph Theory](https://github.com/afinkelstein65/DWI_Workshop/blob/main/Day4%20-%20Connectivity%20and%20Graph%20Theory/DWI_Workshop_Day4_GraphTheory.ipynb)
 
 ## Connectome Construction: 
 
